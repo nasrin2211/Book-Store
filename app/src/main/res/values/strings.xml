@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="title">Bengali Literary and Books</string>
+    <string name="button_text">Search</string>
+    <string name="default_text">No writer is Chosen</string>
+    <string-array name="writer_list">
+        <item>Jasimuddin</item>
+        <item>Kazi Nazrul Islam</item>
+        <item>Sarat Chandra Chattopadhyay</item>
+    </string-array>
+</resources>
